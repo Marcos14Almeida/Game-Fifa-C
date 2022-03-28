@@ -8,4 +8,4 @@
   
 ## Como Executar o projeto
 
-  Rode o arquivo game.exe diretamente no computador com sistema operacional Windows.
+  Baixe os arquivos e rode o arquivo game.exe diretamente no computador com sistema operacional Windows.
